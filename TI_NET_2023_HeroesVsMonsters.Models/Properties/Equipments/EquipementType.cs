@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TI_NET_2023_HeroesVsMonsters.Models.Properties.Equipments
+{
+    public enum EquipementType
+    {
+        Helmet,
+        Armor,
+        Gloves,
+        Boots,
+        Weapon
+    }
+}

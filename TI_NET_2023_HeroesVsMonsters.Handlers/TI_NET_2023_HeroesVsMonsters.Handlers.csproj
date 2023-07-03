@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TI_NET_2023_HeroesVsMonsters.Models\TI_NET_2023_HeroesVsMonsters.Models.csproj" />
+    <ProjectReference Include="..\TI_NET_2023_HeroesVsMonsters.UI\TI_NET_2023_HeroesVsMonsters.UI.csproj" />
+  </ItemGroup>
+
+</Project>

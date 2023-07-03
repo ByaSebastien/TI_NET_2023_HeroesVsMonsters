@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_NET_2023_HeroesVsMonsters", "TI_NET_2023_HeroesVsMonsters\TI_NET_2023_HeroesVsMonsters.csproj", "{D29313CA-625B-4DE3-98FD-3960B85F3C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_NET_2023_HeroesVsMonsters.Models", "TI_NET_2023_HeroesVsMonsters.Models\TI_NET_2023_HeroesVsMonsters.Models.csproj", "{6CC15F7F-BEDE-4827-9239-E628C412DB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_NET_2023_HeroesVsMonsters.Utils", "TI_NET_2023_HeroesVsMonsters.Utils\TI_NET_2023_HeroesVsMonsters.Utils.csproj", "{8B1D390C-F44D-44AA-98C6-8DB9D7A033D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_NET_2023_HeroesVsMonsters.UI", "TI_NET_2023_HeroesVsMonsters.UI\TI_NET_2023_HeroesVsMonsters.UI.csproj", "{19FC6A7A-14A1-47BB-A861-F960FFDBB4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_NET_2023_HeroesVsMonsters.Handlers", "TI_NET_2023_HeroesVsMonsters.Handlers\TI_NET_2023_HeroesVsMonsters.Handlers.csproj", "{33ACE5C5-9ED2-41B0-921F-CB2DCC9898FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29313CA-625B-4DE3-98FD-3960B85F3C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29313CA-625B-4DE3-98FD-3960B85F3C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29313CA-625B-4DE3-98FD-3960B85F3C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29313CA-625B-4DE3-98FD-3960B85F3C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC15F7F-BEDE-4827-9239-E628C412DB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC15F7F-BEDE-4827-9239-E628C412DB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC15F7F-BEDE-4827-9239-E628C412DB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC15F7F-BEDE-4827-9239-E628C412DB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1D390C-F44D-44AA-98C6-8DB9D7A033D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1D390C-F44D-44AA-98C6-8DB9D7A033D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1D390C-F44D-44AA-98C6-8DB9D7A033D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1D390C-F44D-44AA-98C6-8DB9D7A033D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FC6A7A-14A1-47BB-A861-F960FFDBB4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FC6A7A-14A1-47BB-A861-F960FFDBB4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FC6A7A-14A1-47BB-A861-F960FFDBB4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FC6A7A-14A1-47BB-A861-F960FFDBB4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33ACE5C5-9ED2-41B0-921F-CB2DCC9898FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ACE5C5-9ED2-41B0-921F-CB2DCC9898FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ACE5C5-9ED2-41B0-921F-CB2DCC9898FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ACE5C5-9ED2-41B0-921F-CB2DCC9898FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3CA9158-75BD-4F4A-8ACA-C34B3933BA6F}
+	EndGlobalSection
+EndGlobal
